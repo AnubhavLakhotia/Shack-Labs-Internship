@@ -1,4 +1,5 @@
 # Shack-Labs-Internship
+<b>TASK:</b>
 Assignment 1
 : Predict the price of a house
 Dataset: <DS - Assignment Part 1 data set.xlsx>
@@ -42,7 +43,8 @@ Linear Regression model
 Ensemble Model
 
 
-Results
+<b>Results:</b>
+
 We got a good improvement in accuracy with model transition (from 56.4% to 82.7%). Needs more tuning!
 
 
