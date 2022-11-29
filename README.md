@@ -20,3 +20,26 @@ similar products are matched, display the retail price from FK and AMZ side by s
 many techniques as possible before choosing the final technique.
 You may either display the final result in single table format OR You may create a simple form where we
 input the product name and the output of prices of the product from both websites are displayed.
+
+
+steps:
+1.Loading data
+
+2.Data Exploration
+   Features with Null value
+   Numerical Features
+   Categorical Features
+
+3.Data Cleaning
+
+4.Data Visualization
+
+5.Data transformation
+
+6.Models trained:
+Linear Regression model
+Ensemble Model
+
+
+
+
