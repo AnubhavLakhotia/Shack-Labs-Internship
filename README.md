@@ -41,5 +41,9 @@ Linear Regression model
 Ensemble Model
 
 
+Results
+We got a good improvement in accuracy with model transition (from 56.4% to 82.7%). Needs more tuning!
+
+
 
 
