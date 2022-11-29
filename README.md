@@ -22,7 +22,7 @@ You may either display the final result in single table format OR You may create
 input the product name and the output of prices of the product from both websites are displayed.
 
 
-steps:
+<b>steps:</b>
 1.Loading data
 
 2.Data Exploration
